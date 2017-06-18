@@ -1,2 +1,4 @@
 b1hahhah
 master:test
+
+b1 --no-ff test
