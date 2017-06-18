@@ -1,2 +1,6 @@
 Hello GitHub!
+<<<<<<< HEAD
 xjw 的文件修改
+
+
+pull并合并冲突后的文件
